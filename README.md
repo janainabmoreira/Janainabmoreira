@@ -20,10 +20,11 @@
 | **Linguagens**       | Python, SQL, DAX                                              |
 | **Visualização**     | Power BI, Looker Studio, Excel                                |
 | **Análise de Dados** | Pandas, NumPy, Matplotlib, Seaborn                            |
-| **ETL**              | Preparo e transformação de dados para análises mais eficientes |
+| **ETL**              | Python (Pandas, SQL), processos de extração e transformação de dados |
 | **Banco de Dados**   | MySQL, SQL Server                                             |
 | **Marketing & Ads**  | Google Analytics 4 (GA4), Meta Ads, Google Ads               |
 | **Versionamento**    | Git, GitHub                                                   |
+                                       |
 
 ---
 
